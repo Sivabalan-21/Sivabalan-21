@@ -126,24 +126,6 @@ Multi-tenant SaaS platform for property management.
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sivabalan-21&label=Profile%20Views&color=2E9EF7&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Sivabalan-21?label=Followers&style=flat-square&color=2E9EF7)
-![Public Repos](https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSivabalan-21&style=flat-square&color=2E9EF7)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-21&amp;theme=tokyonight&amp;hide_border=true" width="70%" />
-
-</div>
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Score | Period |
