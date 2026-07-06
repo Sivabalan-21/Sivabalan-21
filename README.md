@@ -6,19 +6,15 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sivabalan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivabalan2112)
-[![Email](https://img.shields.io/badge/Email-sivabalan9913%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sivabalan9913@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Sivabalan--21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sivabalan-21)
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C%20India-FF5722?style=flat-square&logo=google-maps&logoColor=white)](#)
-[![Open To Work](https://img.shields.io/badge/Open%20To-Data%2FBusiness%20Analyst%20Roles-brightgreen?style=flat-square&logo=handshake&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivabalan2112)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sivabalan9913@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sivabalan-21)
+[![Location](https://img.shields.io/badge/Bengaluru%2C%20India-FF5722?style=flat-square&logo=googlemaps&logoColor=white)](#)
+[![Open To Work](https://img.shields.io/badge/Open%20To-Data%2FBusiness%20Analyst%20Roles-brightgreen?style=flat-square)](#)
 
 </div>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=700&color=2E9EF7&center=true&vCenter=true&width=650&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Building+in+public+%E2%80%94+one+dataset+at+a+time" alt="Typing SVG" />
-
-</div>
+<h3 align="center">Turning raw data into decisions — SQL | Python | Power BI | Excel</h3>
 
 ---
 
@@ -147,12 +143,6 @@ Multi-tenant SaaS platform for property management.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivabalan-21&bg_color=00000000&color=2E9EF7&line=2E9EF7&point=ffffff&area=true&hide_border=true" width="98%" />
-
-</div>
-
 ---
 
 ## 🎓 Education
@@ -197,8 +187,6 @@ Open to connecting for collaborations, referrals, or just to talk data!
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivabalan2112)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivabalan9913@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sivabalan-21)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
