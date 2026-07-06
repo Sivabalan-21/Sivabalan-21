@@ -138,8 +138,7 @@ Multi-tenant SaaS platform for property management.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-21&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=1800" width="49%" onerror="this.style.display='none'" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-21&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-21&amp;theme=tokyonight&amp;hide_border=true" width="70%" />
 
 </div>
 
