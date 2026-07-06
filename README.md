@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Sivabalan%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20%26%20Business%20Analyst%20%7C%20MSc%20Data%20Science%20Researcher&descSize=16&descColor=ccc&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,11,20&amp;height=180&amp;section=header&amp;text=Sivabalan%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Data%20%26%20Business%20Analyst%20%7C%20MSc%20Data%20Science%20Researcher&amp;descSize=16&amp;descColor=ccc&amp;descAlignY=55" />
 
 </div>
 
@@ -138,8 +138,8 @@ Multi-tenant SaaS platform for property management.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-21&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sivabalan-21&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;cache_seconds=1800" width="49%" onerror="this.style.display='none'" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivabalan-21&amp;theme=tokyonight&amp;hide_border=true" width="49%" />
 
 </div>
 
@@ -190,7 +190,7 @@ Open to connecting for collaborations, referrals, or just to talk data!
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=2,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" />
 
 <div align="center">
 ⭐ If you find my work useful, consider starring my repositories — it means a lot!
